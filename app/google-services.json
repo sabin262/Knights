@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689266329426",
+    "firebase_url": "https://androidtest-70ad7.firebaseio.com",
+    "project_id": "androidtest-70ad7",
+    "storage_bucket": "androidtest-70ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689266329426:android:75692793f522c4e3",
+        "android_client_info": {
+          "package_name": "com.venomxc45.androidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689266329426-5dcphlm1qcrc5op793r1m7ilpatpnncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjYYsloeiUOQRuIoA-AnF_zbiWaeaYS-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689266329426-5dcphlm1qcrc5op793r1m7ilpatpnncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
