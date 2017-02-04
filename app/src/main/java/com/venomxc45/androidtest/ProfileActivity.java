@@ -37,6 +37,8 @@ public class ProfileActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 saveUserInfo();
+                finish();
+                startActivity(new Intent(ProfileActivity.this,MainPageActivity.class));
             }
         });
         FirebaseUser user = firebaseAuth.getCurrentUser();
